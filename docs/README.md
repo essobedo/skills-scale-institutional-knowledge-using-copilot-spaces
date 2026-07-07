@@ -4,7 +4,7 @@ This README provides a central index of OctoAcme project management process docu
 
 ## Process Summary
 
-OctoAcme uses a lightweight, iterative project management approach across five lifecycle stages: initiation, planning, execution, release, and retrospective improvement. Work is guided by clear ownership (PM and Product Lead), measurable outcomes, risk tracking, regular communication cadences, and continuous improvement after milestones and incidents.
+OctoAcme uses a lightweight, iterative project management approach across six lifecycle stages: initiation, planning, execution, risk management &amp; communication, release, and retrospective improvement. Work is guided by clear ownership (PM and Product Lead), measurable outcomes, risk tracking, regular communication cadences, and continuous improvement after milestones and incidents.
 
 ### Lifecycle Stages
 
